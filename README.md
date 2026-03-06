@@ -2,7 +2,7 @@
 
 ![](./Utils/ReadmeUtils/finalnote.png)
 
-![](./Utils/ReadmeUtils/feedbacks.png)
+![](./Utils/ReadmeUtils/feedback.png)
 
 # Description
 
