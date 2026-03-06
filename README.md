@@ -1,5 +1,9 @@
 ﻿*This project has been created as part of the 42 curriculum by ikayiban and tclouet.*
 
+![](./Utils/ReadmeUtils/finalnote.png)
+
+![](./Utils/ReadmeUtils/feedbacks.png)
+
 # Description
 
 *This section presents the project, its goals, and a brief overview :*
