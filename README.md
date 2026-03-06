@@ -1,6 +1,6 @@
 ﻿*This project has been created as part of the 42 curriculum by ikayiban and tclouet.*
 
-![](./Utils/ReadmeUtils/finalnote.png)
+![](./Utils/ReadmeUtils/fnote.png)
 
 ![](./Utils/ReadmeUtils/feedback.png)
 
