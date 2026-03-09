@@ -1,4 +1,4 @@
-﻿*This project has been created as part of the 42 curriculum by ikayiban and tclouet.*
+﻿*This project was created in February 2026 as part of the 42 curriculum by ikayiban and tclouet.*
 
 ![](./Utils/ReadmeUtils/fnote.png)
 
